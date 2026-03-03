@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bianliang.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chatbpt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="short.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="float _pratice.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pratice.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="caluator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="former_later.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="binary.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="choice.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xuexibiji.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="password_locked.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zhuangtaiji.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="year.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="seller.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sun.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="the_use_of_do_while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="random_number.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="champian.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="延时倒计时.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="function.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="primaid.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="progress_bar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leap_year.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="recursion.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ROCK_SCISSOR_PAPER.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_pratice.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="index.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="senior_pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array_pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
